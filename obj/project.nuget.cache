@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5e2t17zHYE0eUocYivDpXK6IMgvpyEJlghwnGQyl3wGgCDpHjNRqZinPN5UgBhdK95CFwHJ7lGJOxJo6dRMG/w==",
+  "dgSpecHash": "fsyQceKBbvy8Zy4fASZUxOfGQD/8FYoeOmCP18Xb0ZdAa0Qg1s0TY2q9tEVm7jVV7Z+zXdoDtK8tGVf4qokJoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\core\\Details\\Details.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\core\\ExpectedSalaryDetails_.NETCore_\\Details.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

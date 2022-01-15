@@ -236,11 +236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\core\\Details\\Details.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\core\\ExpectedSalaryDetails_.NETCore_\\Details.csproj",
       "projectName": "Details",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\core\\Details\\Details.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\core\\ExpectedSalaryDetails_.NETCore_\\Details.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\core\\Details\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\core\\ExpectedSalaryDetails_.NETCore_\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
